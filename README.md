@@ -40,6 +40,14 @@ The dataset contains the following key columns:
 
 ---
 
+## ETL Pipeline
+The **ETL (Extract, Transform, Load)** pipeline for this project, which includes data extraction, transformation, and loading into an SQLite database, is located in a separate GitHub repository. You can access the ETL pipeline code and documentation here:  
+[**ETL Pipeline Repository: sleep-cognition-etl**](https://github.com/mdislam1/sleep-cognition-etl)
+
+This repository contains the complete implementation of the ETL process, including data cleaning, feature engineering, and database integration.
+
+--- 
+
 ## Tools and Libraries
 - **Python**: Primary programming language.
 - **Pandas**: Data manipulation and analysis.
