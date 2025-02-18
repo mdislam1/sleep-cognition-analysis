@@ -66,7 +66,7 @@ project/
 ## How to Run the Analysis
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/mdislam1/sleep-cognition-analysis.git
    cd project
    ```
 2. Install the required libraries:
